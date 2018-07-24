@@ -1,0 +1,84 @@
+/*
+ Founder MR. Innocent Tauzeni
+ Date and Year 14 February 2018
+ Location:Bindura Mashonaland Central Province, Zimbabwe;
+ Version 1.0.1
+ Licence: You are not allowed to distribute without my permission;
+ Follow me on Twitter Kerlyeen2
+ Facebook Innocent Tauzeni
+ Instagram Telthem_Tauzeni
+ Phone Number +263 774 914 150
+ E-mail Address : datatelthem@gmail.com;
+ My Website: www.telthem.com;
+   :::::::::::::::::::www.physmachtechs.co.zw::::::::::::::::::::::::; 
+*/
+
+*{
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+	text-decoration: none;
+}
+body{
+	background-color: #f1eded;
+}
+.container{
+	width: 1250px;
+	/*background-color: red;
+	height: 67px;*/
+	margin: auto;
+}
+.mainheader{
+	width: 100%;
+	height: 80px;
+	background-color: #406784;
+	border-bottom: 2px solid #0d0d0c;
+}
+.mainheader img{
+	float: left;
+}
+.mainheader  .navbar-searchbar{
+	position: relative;
+}
+.mainheader  .navbar-searchbar input{
+	width: 500px !important;
+	color: #a12283 !important;
+	font-weight: bold !important;
+	height: 31.6px;
+	font-family: "Trebuchet MS",Helvetica, sense-serif !important;
+	padding: 0px 10px !important;
+	margin: 20px 0px;
+	position: absolute;
+	margin-left: 98px;
+	outline: none;
+	background: rgba(255, 255,255,0.7);
+	border: none;
+	border-radius: 50px;
+}
+.searchbar{
+	background-size: 100%;
+	background-image: url("../img/search.png");
+	width: 25px;
+	height: 25px;
+	cursor: pointer;
+	position: absolute;
+	right: 519px;
+	top: 24.5px;
+	color: rgba(255, 255,255,0.7);
+}
+.mainheader ul{
+	float: right;
+}
+.mainheader ul li{
+	display: inline-block;
+	padding: 26px 4px;
+}
+.mainheader ul li a{
+	color: #919292;
+	padding: 26px 12px;
+	font-size: 20px;
+	font-weight: 700;
+}
+.mainheader ul li a:hover{
+	color: #817e38;
+}

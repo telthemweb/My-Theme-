@@ -1,0 +1,188 @@
+/*
+ Founder MR. Innocent Tauzeni
+ Date and Year 14 February 2018
+ Location:Bindura Mashonaland Central Province, Zimbabwe;
+ Version 1.0.1
+ Licence: You are not allowed to distribute without my permission;
+ Follow me on Twitter Kerlyeen2
+ Facebook Innocent Tauzeni
+ Instagram Telthem_Tauzeni
+ Phone Number +263 774 914 150
+ E-mail Address : datatelthem@gmail.com;
+ My Website: www.telthem.com;
+   :::::::::::::::::::www.physmachtechs.co.zw::::::::::::::::::::::::; 
+*/
+
+.banner{
+	height: 480px;
+	border-bottom: 1px solid #e0e0e0;
+}
+.profile{
+	width: 1183px;
+	height:360px;
+	background-image: url("../img/bg.jpg");
+	background-size: cover;
+	padding: 34px;
+}
+.avatar{
+	background-color: #1cbdec;
+	width: 215px;
+	height: 215px;
+	margin: 2px;
+	margin-top: 220px;
+	border: 5px solid white;
+	float: left;
+
+}
+.means{
+	height: 28px;
+	width: 740px;
+	padding: 10px;
+	float: right;
+	margin-top: 343px;
+}
+.means h4{
+	float: left;
+	color: #fff;
+	font-size: 23px;
+}
+.means a{
+	float: right;
+	font-size: 1em;
+    color: #000;
+    margin: 2px;
+    font-weight: 600;
+    padding: 0.2em .5em;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    background-color: #fff;
+}
+.avatar img{
+	width: 215px;
+	height: 215px;
+}
+.profile input{
+	background-color: black;
+	opacity: 0.6;
+	width: 198px;
+	padding: 13px;
+	border: 1px solid#fff;
+	outline: none;
+	border-radius: 7px;
+	margin-left: -217px;
+}
+.btn{
+	background-color: #e4e9eb;
+	height: 34px;
+	margin-top: 345px;
+	width: 790px;
+	margin-left: 228px;
+	padding: 8px;
+}
+.btn a{
+	float: left;
+	font-size: 1em;
+    color: #6a6c6c;
+    font-weight: 600;
+    padding: 1em 2em;
+    margin: 2px;
+    margin-top: -7px;
+    top: 81px;
+    border: none;
+    background-color: #fff;
+}
+.btn a:hover{
+    color: #fff;
+    background: rgba(70, 70, 70, 0.67);
+}
+.biography{
+	background-color: #1d87a6;
+	height: 900px;
+	padding: 13px;
+}
+.biography .sidebar{
+	background-color: #fff;
+	padding: 14px;
+	float: left;
+	width: 34%;
+	height: auto;
+}
+.biography .sidebar img{
+	float: left;
+	width: 30px;
+	height: 30px;
+}
+.biography .sidebar h2{
+	padding: 4px;
+	font-size: 23px;
+	color: #68696a;
+}
+.biography .sidebar p{
+	padding: 4px;
+	color: #68696a;
+	border-bottom: 1px solid #68696a;
+	margin-bottom: 4px;
+}
+.timebelow{
+	display: block;
+
+}
+.timebelow b{
+	padding: 8px;
+	font-size: 18px;
+	color: #68696a;
+	margin: 3px;
+}
+.timebelow a{
+	font-size: 18px;
+	color: #1d87a6;
+}
+.biography .timeline_post{
+	/*background-color: #fff;
+	background-color: #e1e1e1;*/
+	padding: 14px;
+	float: right;
+	width: 60%;
+	height: auto;
+}
+.postbanner{
+	margin-top: -15px;
+	height: 506px;
+	width:788px;
+	background-color: #fff;
+	margin-left: -24px;
+}
+.postbanner h3{
+	padding: 12px;
+	font-size: 20px;
+	color: #fff;
+	font-weight: 700;
+	margin-bottom: 4px;
+	text-align: center;
+	background-color: #028284;
+}
+table{
+	border-collapse: collapse;
+	width: 100%;
+}
+th{
+	font-weight: bold;
+	text-align: left;
+	color:#000;
+}
+
+td, th{
+	padding: 20px;
+}
+td{
+	color:#028482;
+}
+tr{
+	background-color: #fff;
+}
+tr:hover{
+	background-color:#fff;
+}
+tr:hover td{
+	color: #7303A2;
+}

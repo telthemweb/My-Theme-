@@ -1,0 +1,54 @@
+.banner{
+	background-image: url("../img/banner.jpg");
+	background-size: cover;	
+	padding: 23px;
+	height: 890px;
+}
+/*signupform*/
+.signup_form{
+	top: 56px;
+	padding: 50px;
+	margin: auto;
+	width:900px;
+	height: 600px;
+	border-radius: 23px;
+	background-color: red;
+	opacity: 0.4;
+}
+.signup_form h2{
+	color: #000;
+	text-align: center;
+	font-size: 33px;
+	padding: 15px;
+	font-weight: 800;
+	border-bottom: 1px solid white;
+}
+.signup_form form{
+	margin-top: 90px;
+}
+.signup_form input{
+	margin-left: 98px;
+	background-color: black;
+	opacity: 0.6;
+	width: 620px;
+	padding: 15px;
+	border: 1px solid#fff;
+	outline: none;
+	border-radius: 7px;
+}
+.signup_form button{
+	font-size: 1em;
+    color: #fff;
+    font-weight: 600;
+    padding: 0.8em 2em;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    background-color: transparent;
+    margin-left: 333px;
+}
+.signup_form button:hover{
+	border: 2px solid #464646;
+    color: #fff;
+    background: rgba(70, 70, 70, 0.67);
+}
+/*end of signupform*/

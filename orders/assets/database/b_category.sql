@@ -1,0 +1,4 @@
+CREATE TABLE `physmach`.`b_catigory` ( `c_id` INT(11) NOT NULL AUTO_INCREMENT ,
+ `name` VARCHAR(255) NOT NULL ,
+  `created_at` TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ,
+   PRIMARY KEY (`c_id`)) ENGINE = InnoDB;

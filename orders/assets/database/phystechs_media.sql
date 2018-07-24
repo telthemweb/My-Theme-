@@ -1,0 +1,10 @@
+CREATE TABLE `physmach`.`phystechs_media` ( `m_id` INT(11) NOT NULL AUTO_INCREMENT ,
+	`artist` VARCHAR(255) NOT NULL ,
+	`slug` VARCHAR(255) NOT NULL , 
+	`songtitle` VARCHAR(255) NOT NULL ,
+	`album_title` VARCHAR(255) NOT NULL ,
+	`song` TEXT NOT NULL , 
+	`genre` VARCHAR(50) NOT NULL ,
+	`view` VARCHAR NOT NULL ,
+	`uploaded` TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ,
+	PRIMARY KEY (`m_id`)) ENGINE = InnoDB;
